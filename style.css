@@ -1,0 +1,68 @@
+body{
+    font-size: 100%;
+    text-align: left;
+    background-color: rgb(23, 115, 207);
+    font-family: Avenir; 
+    color: rgba(255, 255, 255, 0.829);
+}
+
+.mainheader{
+    text-shadow: 2px 2px #141010;
+}
+
+.subheader{
+
+    text-shadow: 2px 2px rgb(141, 135, 222);
+}
+
+.container1 div{
+    border: 1px ;
+    padding: 10px;
+}
+
+.container1{
+    display: flex;     
+}
+
+.c1box1{        
+    flex: 3;       
+}
+
+.c1box2{
+    flex: 1;      
+}
+
+.container2 {
+    border: 1px /*#ccc solid*/;
+    padding: 10px;
+    display: flex;
+    justify-content: center;        
+}
+
+.container3 div{
+    border: 1px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.container3{
+    display: flex;  
+       
+}
+
+.c3box1{
+    flex: 1;   
+    
+}
+
+.c3box2{
+    flex: 1;
+}
+
+.c3box3{
+    flex: 1;
+}
+
+
+
+
