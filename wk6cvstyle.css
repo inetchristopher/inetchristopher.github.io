@@ -1,0 +1,19 @@
+/*body{
+        text-align: center;
+        background-color: rgb(23, 115, 207);
+        font-family: Avenir; 
+        color: rgba(255, 255, 255, 0.829);
+}
+
+.show{
+        background-color: white;
+        color: black;
+}
+
+.row{
+        margin-top: 100px;
+        min-height: 100px;
+        justify-content: space-between;
+}
+
+
